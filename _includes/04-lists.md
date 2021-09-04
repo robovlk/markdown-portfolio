@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- apples
+- oranges
+- cats
+- dogs
+
+1. one
+2. two
+3. three
